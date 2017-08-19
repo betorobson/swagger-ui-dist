@@ -1,0 +1,35 @@
+.opblock-description-wrapper .opblock-description .markdown {
+	font-size: 14px;
+}
+
+.opblock-description .markdown table {
+	width: auto;
+}
+
+.opblock-description .markdown table thead tr th {
+	background: #ccc;
+}
+
+.opblock-description .markdown table tr {
+	background: hsla(0,0%,100%,.4);
+}
+
+.opblock-description .markdown table tr:nth-child(2n) {
+	background: hsla(0,0%,100%,.8);
+}
+
+.opblock-description .markdown table thead tr th,
+.opblock-description .markdown table tbody tr td,
+.opblock-description .markdown table tbody tr td:first-of-type {
+	padding: 8px 5px;
+}
+
+.opblock-description .markdown table thead tr th,
+.opblock-description .markdown table tbody tr td {
+	border: 1px solid #ddd;
+}
+
+.opblock-description .markdown table tbody tr td code {
+	color: #c7254e;
+	background-color: rgba(0,0,0,.04);
+}

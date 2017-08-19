@@ -1,0 +1,8 @@
+{
+  "name": "swagger-ui-dist",
+  "version": "3.1.6",
+  "description": "swagger-ui-dist bundle css enhacement",
+  "main": "index.js",
+  "author": "Roberto Robson Soares Nogueira",
+  "license": "ISC"
+}
